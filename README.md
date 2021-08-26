@@ -20,7 +20,7 @@ React project, this project is been made with HTML5, CSS3, JS and JSX, following
 ---------------------------------------------
 |   Desktop version   |   Mobile version    |
 |-------------------- | --------------------|
-![Desktop]() | ![mobile]()
+![Desktop](https://user-images.githubusercontent.com/54015740/130887033-d47cf678-9c16-4a40-9753-7e1a3ea54ed3.jpg)![desktopv](https://user-images.githubusercontent.com/54015740/130887036-65cc7ce2-3c4f-4be1-bef6-776508219bc7.jpg)![desktopversion](https://user-images.githubusercontent.com/54015740/130887039-43584843-6fb0-482a-a47c-684fdfecd731.jpg)![aboutapp](https://user-images.githubusercontent.com/54015740/130887040-35949f2f-d0ee-4b3d-ba98-a6472f57b18a.jpg) | ![mobile](https://user-images.githubusercontent.com/54015740/130887029-38c504b1-5ddc-4c5c-a849-bc2960a1b518.jpg)
 ------------------------------------------
 ---
 
