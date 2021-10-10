@@ -40,7 +40,7 @@ The main purpose of the project [To-do-react](https://sheylapozo.github.io/to-do
 # 🤍 Live Demo 🤍
 ---
 
-🤍 [Demo](https://sheylapozo.github.io/to-do-react/) 
+🤍 [Livee Demo](https://sheylapozo.github.io/to-do-react/) 
 
 ---
 
